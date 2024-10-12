@@ -25,7 +25,7 @@
 <a href="https://postimg.cc/XBg7rFcf" target="_blank"><img src="https://i.postimg.cc/sxkB04MN/25.jpg" alt="25"/></a><br/><br/>
 <a href="https://postimg.cc/PNbqVssC" target="_blank"><img src="https://i.postimg.cc/WpCJ3T5w/26.jpg" alt="26"/></a><br/><br/>
 <a href="https://postimg.cc/6y9pDjtY" target="_blank"><img src="https://i.postimg.cc/L6Pggw7K/27.jpg" alt="27"/></a><br/><br/>
-<a href="https://postimg.cc/gnN2dV0d" target="_blank"><img src="https://i.postimg.cc/sgRQYKdB/28.jpg" alt="28"/></a><br/><br/>
+<a href='https://postimg.cc/gnN2dV0d' target='_blank'><img src='https://i.postimg.cc/sgRQYKdB/28.jpg' border='0' alt='28'/></a>
 <a href="https://postimg.cc/VJvLNJSt" target="_blank"><img src="https://i.postimg.cc/3xCynpYt/29.jpg" alt="29"/></a><br/><br/>
 <a href="https://postimg.cc/pmSV5P86" target="_blank"><img src="https://i.postimg.cc/vmY4jBmb/30.jpg" alt="30"/></a><br/><br/>
 <a href="https://postimg.cc/jWJxzB4d" target="_blank"><img src="https://i.postimg.cc/cJFvNSKY/31.jpg" alt="31"/></a><br/><br/>
